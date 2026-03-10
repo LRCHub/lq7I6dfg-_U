@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "自分勝手Dazzling",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-03-10T03:54:09.466627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/01_自分勝手Dazzling_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/02_自分勝手Dazzling_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling - Still Still Stellar ver.",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/03_自分勝手Dazzling_-_Still_Still_Stellar_ver._Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_自分勝手Dazzling_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_自分勝手Dazzling_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling（Instrumental）",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/06_自分勝手Dazzling(Instrumental)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "自分勝手Dazzling",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/07_自分勝手Dazzling_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自分勝手Dazzling",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_自分勝手Dazzling_星街すいせい.txt"
+    }
+  ]
+}
